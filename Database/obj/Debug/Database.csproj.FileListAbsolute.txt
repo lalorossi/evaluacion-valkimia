@@ -1,0 +1,9 @@
+C:\Users\Lalo\source\repos\Evaluacion\Database\bin\Debug\Database.dll
+C:\Users\Lalo\source\repos\Evaluacion\Database\bin\Debug\Database.pdb
+C:\Users\Lalo\source\repos\Evaluacion\Database\bin\Debug\Entidades.dll
+C:\Users\Lalo\source\repos\Evaluacion\Database\bin\Debug\Entidades.pdb
+C:\Users\Lalo\source\repos\Evaluacion\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Lalo\source\repos\Evaluacion\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\source\repos\Evaluacion\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Lalo\source\repos\Evaluacion\Database\obj\Debug\Database.dll
+C:\Users\Lalo\source\repos\Evaluacion\Database\obj\Debug\Database.pdb

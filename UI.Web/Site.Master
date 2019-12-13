@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="UI.Web.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Evaluacion</title>
+    <asp:contentplaceholder id="Header" runat="server" />
+</head>
+<body>
+    <form id="bodyForm" runat="server">
+        <div id="MainHeader"style="background-color:rgba(255, 131, 0, 0.5215686274509804);position:fixed; top:0; height:60px;width:100%">
+            <asp:LinkButton ID="lnkCerrarSesion" runat="server" OnClick="lnkCerrarSesion_Click" style="float:right; margin-right:1%" Font-Size="Smaller">Cerrar Sesión</asp:LinkButton>
+            <asp:Button ID="btnFacturas" Text="Añadir Facturas" runat="server" OnClick="btnFacturas_Click" style="float:left; margin-left:1%; margin-top: 1%" Font-Size="Smaller"></asp:Button>
+        </div>
+        <div id="MainContent" style="padding-bottom:20px;">
+            <asp:ContentPlaceHolder ID="bodyContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="MainFooter" style="background-color: rgba(255, 131, 0, 0.5215686274509804); text-align: center; vertical-align:middle; position:fixed; bottom:0; width:100%; height:60px">
+            <span>Evaluación Valkimia</span>
+            <br />
+            <span>Sebastián Rossi</span>
+        </div>
+    </form>
+</body>
+</html>

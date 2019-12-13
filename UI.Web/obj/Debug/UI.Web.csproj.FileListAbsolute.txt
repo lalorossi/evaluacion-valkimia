@@ -1,0 +1,14 @@
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\UI.Web.dll.config
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\UI.Web.dll
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\UI.Web.pdb
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Entidades.dll
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Logic.dll
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Database.dll
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Entidades.pdb
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Logic.pdb
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\bin\Database.pdb
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\obj\Debug\UI.Web.csprojAssemblyReference.cache
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\obj\Debug\UI.Web.csproj.CoreCompileInputs.cache
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\obj\Debug\UI.Web.csproj.CopyComplete
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\obj\Debug\UI.Web.dll
+C:\Users\Lalo\source\repos\Evaluacion\UI.Web\obj\Debug\UI.Web.pdb
